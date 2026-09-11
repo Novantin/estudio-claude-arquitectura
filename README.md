@@ -39,7 +39,10 @@ Y dentro de Claude Code, la primera vez, escribe:
 | `estilo/` | Tu guía de estilo, sacada de tus memorias antiguas. |
 | `normativa/` | Tus PDFs de CTE, ordenanzas y autonómica. No se suben al repo. |
 | `plantillas/` | Estructuras base de ficha e índice de memoria. |
-| `.claude/commands/` | Los atajos: `/arrancar` y `/actualizar`. |
+| `.claude/commands/` | Los atajos: `/instalar`, `/arrancar` y `/actualizar`. |
+| `recursos/` | Catálogos, fichas técnicas y fotos del encargo en curso. Solo tuyo. |
+| `CASO-PRACTICO.md` | El paso a paso con tu obra real. |
+| `GUIA-MODELOS-Y-CREDITOS.md` | Qué modelo usar y por qué se gastan los créditos. |
 | `EMPIEZA-AQUI.md` | Los tres pasos del despliegue, en cristiano. |
 | `BITACORA.md` | Qué entró en cada actualización. |
 | `encargos/` | Una carpeta por encargo. No se suben al repo. |

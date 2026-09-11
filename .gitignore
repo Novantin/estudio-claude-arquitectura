@@ -16,3 +16,7 @@ estilo/GUIA-DE-ESTILO.md
 
 # Entrega al alumno: va en pendrive, nunca por GitHub
 entrega/
+
+# Recursos del encargo en curso: catalogos, fichas tecnicas, fotos
+recursos/*
+!recursos/README.md

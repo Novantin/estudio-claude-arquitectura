@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/**)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git pull:*)"
+    ],
+    "deny": [
+      "Bash(git push:*)",
+      "Bash(rm:*)"
+    ]
+  }
+}

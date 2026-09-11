@@ -1,0 +1,12 @@
+# Datos del estudio: nunca salen de este ordenador
+CLAUDE.local.md
+encargos/*
+!encargos/README.md
+normativa/*
+!normativa/README.md
+estilo/GUIA-DE-ESTILO.md
+
+# Ofimática
+~$*
+*.tmp
+.DS_Store

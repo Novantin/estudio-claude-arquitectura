@@ -10,3 +10,6 @@ estilo/GUIA-DE-ESTILO.md
 ~$*
 *.tmp
 .DS_Store
+
+# Ajustes locales de cada ordenador
+.claude/settings.local.json

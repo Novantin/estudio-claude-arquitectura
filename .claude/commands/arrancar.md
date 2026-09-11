@@ -1,46 +1,51 @@
 ---
-description: Monta el estudio la primera vez — crea el CLAUDE.local.md, revisa las carpetas y explica qué se puede pedir
+description: Despliega el estudio en este ordenador — coloca lo que se trabajó en el taller y deja todo listo
 ---
 
-Es la primera vez que el arquitecto abre esta carpeta. Tu trabajo ahora es
-dejarle el estudio listo, no redactar nada.
+Este es el despliegue. El trabajo ya está hecho: durante el taller se montó todo
+en el ordenador del formador. Aquí solo hay que colocarlo y comprobar que
+funciona.
 
-Hazlo en este orden, y con paciencia: puede ser la primera vez que usa una
-terminal en su vida. Nada de jerga. Nada de explicar qué es un repositorio.
+**Sé breve y ahorra trabajo.** No repitas nada que ya esté hecho, no generes
+documentos, no redactes de prueba. Cada respuesta larga aquí es presupuesto que
+se gasta sin producir nada.
 
-## 1. Sitúate
+## 1. Mira qué hay
 
-Lee `README.md`, `CLAUDE.md` y `BITACORA.md`. No los resumas en pantalla.
+Comprueba en este orden y **sin leer los archivos enteros**:
 
-## 2. Entrevista para el `CLAUDE.local.md`
+- ¿Existe `CLAUDE.local.md`?
+- ¿Existe `estilo/GUIA-DE-ESTILO.md`?
+- ¿Hay algo en `normativa/`? ¿Y en `encargos/`?
+- ¿Hay una carpeta `entrega/`? Si la hay, viene del taller.
 
-Si el archivo ya existe, sáltate este paso y dilo.
+## 2. Si hay carpeta `entrega/`
 
-Pregunta **de una en una**, esperando respuesta:
+Mueve cada archivo a su sitio y borra la carpeta vacía:
 
-- Nombre y apellidos como firma los proyectos.
-- Colegio profesional y número de colegiado.
-- Titulación o titulaciones.
-- Municipios o comarcas donde trabaja habitualmente.
-- Tipo de encargo más frecuente.
-- Tres manías de redacción: qué le molesta ver en un borrador.
-- Tipografía y tamaño que usa en sus documentos de Word.
+| Lo que viene en `entrega/` | Dónde va |
+|---|---|
+| `CLAUDE.local.md` | raíz |
+| `GUIA-DE-ESTILO.md` | `estilo/` |
+| carpeta de encargo | `encargos/` |
 
-Con eso escribe `CLAUDE.local.md`. Enséñaselo y pregunta si hay algo que cambiar.
+Confirma en dos líneas qué has colocado. No abras los documentos para resumirlos.
 
-## 3. Inventario de carpetas
+## 3. Solo lo que falte
 
-Mira qué hay en `normativa/`, `estilo/` y `encargos/` y dile, en una tabla corta,
-qué tiene y qué le falta por colocar. Sé concreto:
+Si falta `CLAUDE.local.md`, y **solo entonces**, pregunta lo mínimo, de una en
+una: nombre como firma, colegio y número, municipios donde trabaja, tipografía y
+tamaño de sus documentos de Word. Escríbelo y sigue.
 
-- Si `estilo/GUIA-DE-ESTILO.md` no existe, dile que la generéis ahora mismo si
-  tiene dos o tres memorias antiguas a mano, y ofrécete a hacerlo.
-- Si `normativa/` está vacía, dile exactamente qué PDFs le convendría poner y
-  recuérdale que tienen que tener texto seleccionable, no ser escaneos.
+Si falta la guía de estilo, no la generes ahora: dile que necesita dos o tres
+memorias suyas delante y que se hace en una sesión aparte.
+
+Si `normativa/` está vacía, dile qué PDFs le convienen y que tengan texto
+seleccionable, no escaneos. No te ofrezcas a buscarlos.
 
 ## 4. Cierra
 
-Cinco líneas, ni una más, diciéndole qué puede pedirte a partir de ahora. Usa sus
-palabras, no las tuyas: memoria, ficha de encargo, auditoría de normativa.
+Cinco líneas: qué puede pedirte a partir de ahora, con sus palabras —ficha de
+encargo, memoria, auditoría de normativa— y cómo se llaman las tres skills.
 
-Y una última frase: que la IA redacta y él firma.
+Última frase: la IA redacta, él firma.

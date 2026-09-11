@@ -6,6 +6,12 @@ Lo que en la web era «el Proyecto con sus instrucciones y su conocimiento», aq
 es una carpeta que puedes versionar, copiar a otro ordenador y mejorar con el
 tiempo. Claude Code lee todo esto solo al arrancar dentro de la carpeta.
 
+## Cómo llega esto aquí
+
+El taller se hace en el ordenador del formador: ahí se trastea, se prueba y se
+redacta. En tu ordenador solo se despliega el resultado, que cuesta un minuto y
+casi nada de consumo.
+
 ## Puesta en marcha (una vez)
 
 ```bash
@@ -34,6 +40,7 @@ Y dentro de Claude Code, la primera vez, escribe:
 | `normativa/` | Tus PDFs de CTE, ordenanzas y autonómica. No se suben al repo. |
 | `plantillas/` | Estructuras base de ficha e índice de memoria. |
 | `.claude/commands/` | Los atajos: `/arrancar` y `/actualizar`. |
+| `EMPIEZA-AQUI.md` | Los tres pasos del despliegue, en cristiano. |
 | `BITACORA.md` | Qué entró en cada actualización. |
 | `encargos/` | Una carpeta por encargo. No se suben al repo. |
 

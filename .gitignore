@@ -13,3 +13,6 @@ estilo/GUIA-DE-ESTILO.md
 
 # Ajustes locales de cada ordenador
 .claude/settings.local.json
+
+# Entrega al alumno: va en pendrive, nunca por GitHub
+entrega/

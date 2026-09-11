@@ -15,5 +15,5 @@ El kit que montamos en el taller, ya en forma de carpeta:
 - **Tres procedimientos guardados**: la ficha de encargo por entrevista, la
   memoria descriptiva apartado por apartado, y la auditoría de normativa.
 - **Plantillas** de ficha de encargo e índice de memoria según el Anejo I del CTE.
-- **Dos atajos**: `/arrancar` para montarlo la primera vez y `/actualizar` para
-  traer novedades.
+- **Dos atajos**: `/arrancar` para desplegarlo en tu ordenador al volver del
+  taller, y `/actualizar` para traer novedades cuando el kit mejore.
